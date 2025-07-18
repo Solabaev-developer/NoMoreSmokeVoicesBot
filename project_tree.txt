@@ -1,0 +1,22 @@
+.
+├── .env
+├── .idea
+│   ├── .gitignore
+│   └── workspace.xml
+├── .venv
+│   ├── .gitignore
+│   ├── CACHEDIR.TAG
+│   ├── bin
+│   ├── lib
+│   └── pyvenv.cfg
+├── Dockerfile
+├── bot
+│   ├── handlers.py
+│   └── main.py
+├── db
+│   └── init.sql
+├── docker-compose.yml
+├── project_tree.txt
+└── requirements.txt
+
+7 directories, 13 files
