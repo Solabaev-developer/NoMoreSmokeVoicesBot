@@ -4,5 +4,6 @@ CREATE TABLE IF NOT EXISTS voices (
                                       file_id TEXT NOT NULL,
                                       tags TEXT[],
                                       name TEXT,
+                                      speaker TEXT,
                                       created_at TIMESTAMP DEFAULT now()
     );
